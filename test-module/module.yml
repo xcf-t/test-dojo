@@ -1,0 +1,38 @@
+  name: Talking Web
+  description: |
+    Full Module Description
+  challenges:
+  - id: level-1
+    name: level1
+    description: Send an HTTP request using curl
+
+  resources:
+  - name: "Talking Web: Introduction"
+    type: lecture
+    video: UW13N0CV-4s
+    playlist: PL-ymxv0nOtqpbL9yW55RfoyUDjwotW9gR
+    slides: 1Wdd3z3qSiknvYsETmosSiIFQtnNmeanFeWJz6SMazY8
+  - name: "Talking Web: The Internet"
+    type: lecture
+    video: v64j2WFiJpc
+    playlist: PL-ymxv0nOtqpbL9yW55RfoyUDjwotW9gR
+    slides: 1HrAXQq6CvxOFfEUhuZTQbqEYOYA-FgLE9pL6ji9BcvI
+  - name: "Talking Web: RFC 1945"
+    type: lecture
+    video: bPaY78xpRhQ
+    playlist: PL-ymxv0nOtqpbL9yW55RfoyUDjwotW9gR
+    slides: 1VWNFfmzbeVzQ-J887ngynb-1YdLGJEd4ype69MUWtkI
+  - name: "Talking Web: URLs and Encoding"
+    type: lecture
+    video: yM9VM2DSkBU
+    playlist: PL-ymxv0nOtqpbL9yW55RfoyUDjwotW9gR
+    slides: 1twvI9r1RPZAuka_cABnvwhOnourhbOgu5C1f_NgZx9s
+  - name: "Talking Web: State"
+    type: lecture
+    video: 2TeudjfK-tQ
+    playlist: PL-ymxv0nOtqpbL9yW55RfoyUDjwotW9gR
+    slides: 1O8ff6AdaTQ1eA8lhUo3GjIbtxicpQnKseIc-TSNW5hE
+  - name: "Talking Web: Making HTTP Requests"
+    type: lecture
+    video: WNYaTYOUfZI
+    playlist: PL-ymxv0nOtqpbL9yW55RfoyUDjwotW9gR

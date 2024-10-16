@@ -1,0 +1,14 @@
+id: test-dojo
+name: Test Dojo
+
+award:
+  belt: orange
+
+description: |
+  Test Description
+
+type: topic
+
+modules:
+
+- id: test-module
